@@ -1,4 +1,4 @@
-Clothing Dataset - Statistics Project
+Clothes Price Prediction - Statistics Project
 
 This project explores a dataset containing information about various clothing items. The dataset includes the following features:
 
